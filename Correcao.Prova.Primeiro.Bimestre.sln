@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.Apresentacao", "Prova.Apresentacao\Prova.Apresentacao.csproj", "{E50831EA-7268-443C-9CB3-6399080306BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.Testes", "Prova.Testes\Prova.Testes.csproj", "{1FC130BD-D467-4DDF-A066-56ECEB24412E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50831EA-7268-443C-9CB3-6399080306BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50831EA-7268-443C-9CB3-6399080306BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50831EA-7268-443C-9CB3-6399080306BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50831EA-7268-443C-9CB3-6399080306BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC130BD-D467-4DDF-A066-56ECEB24412E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC130BD-D467-4DDF-A066-56ECEB24412E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC130BD-D467-4DDF-A066-56ECEB24412E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC130BD-D467-4DDF-A066-56ECEB24412E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5810EEA2-2E39-4F87-995D-229BA491EF2F}
+	EndGlobalSection
+EndGlobal
